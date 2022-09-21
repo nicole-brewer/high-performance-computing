@@ -1,0 +1,8 @@
+# ignore all project files because we only want to publish# helper files common to all projects
+*.c
+*.h
+*.cc
+*.f
+*.mod
+a.out
+main
